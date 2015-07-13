@@ -1,0 +1,11 @@
+﻿1. Giải nén toàn bộ các file trong zip ra một thư mục nào đó.
+	\I HATE COC COC desktop BY bsquochoai.exe
+	data\bsquochoai.ga.tudien.anhviet.db
+	lib\sqlite3.dll
+	lib\sqlite3_x64.dll
+	img\avatar.jpg
+	img\avatar.ico
+2. Xong chạy file "I HATE COC COC desktop BY bsquochoai.exe" để sử dụng phần mềm
+3. Khối một chữ nào đó lại, và bấm Ctrl+Q để dịch. Các tính năng khác em theo dõi thêm
+ở các video hướng dẫn sau nhe:
+https://www.youtube.com/playlist?list=PLQXOqMxi6RBckvZhBwlf7i65FAGfLWoK_ 
